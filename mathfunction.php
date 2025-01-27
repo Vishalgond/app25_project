@@ -11,4 +11,6 @@
 // echo floor(1.6);
 // echo ceil(1.2);
 // echo abs();
-echo 2**3;
+// echo -2**3;
+// echo pow(2,3);
+echo abs(2**3)/2 + sqrt(64/4) * min(10,20,0,2);

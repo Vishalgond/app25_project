@@ -1,8 +1,8 @@
 <?php
 $i=11;
 do{
-    echo "Hello world<br>";
+    echo $i;
     $i=$i++ + ++$i;
-}while($i>=10 && $i<20);
+}while($i>=10 && $i<30);
 
 ?>

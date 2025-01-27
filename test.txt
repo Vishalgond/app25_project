@@ -1,0 +1,2 @@
+readfile method used to read a file and 
+show file information on output buffer.

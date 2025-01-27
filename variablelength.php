@@ -1,8 +1,12 @@
 <?php
-function variableLength(...$list){
-    echo "Hello";
-    print_r($list);
-}
-variableLength(1,2,3,4,5,6,7,8,9,10);
+// function variableLength(...$list){
+//     echo $list;
+//     print_r($list);
+// }
+// variableLength();
+$var = 'test';
+   $$var = 'Ram';
+    Print($test);
+
 
 ?>
